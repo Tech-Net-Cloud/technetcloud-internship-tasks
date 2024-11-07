@@ -22,7 +22,7 @@
 ### Full Stack Development Tasks (4 projects 1 compulsory, desktop size & mobile size)
 
 - Inventory system (compulsory)
-- Uber Kareem like app
+- Uber Careem like app
 - Property buying selling app
 - Chat app
 - Quiz App
